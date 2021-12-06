@@ -32,7 +32,7 @@
             <div>
                 <div class="navbar-nav">
                     <a href="./index.php" class="nav-link" id="home-link">Agenda</a>
-                    <a href="./create.php" class="nav-link" id="home-link">Adicionar ontato</a>
+                    <a href="./create.php" class="nav-link" >Adicionar ontato</a>
                 </div>
             </div>
         </nav>
