@@ -92,3 +92,14 @@
 #back-link:hover{
     text-decoration: none;
 }
+
+.btn{
+    margin-top: 10px;
+}
+
+/* CREATE FORM*/
+#create-form,
+#edit-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
